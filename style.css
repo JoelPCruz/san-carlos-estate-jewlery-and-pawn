@@ -1,0 +1,28 @@
+/* 
+COLORS
+#48487F
+
+*/
+/* * {
+    color: #48487F;
+} */
+
+nav {
+    border-bottom: solid #48487F 1px;
+}
+
+.nav-dropdown {
+    margin: 0;
+}
+
+.icon {
+    margin-top: 6px;
+    margin-right: 0px;
+}
+
+.intro-container {
+    border: none;
+    font-size: 1em;
+}
+
+
